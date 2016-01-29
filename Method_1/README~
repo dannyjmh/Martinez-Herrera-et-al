@@ -1,0 +1,12 @@
+README file for Method 1 in "Statistical analysis and thermodynamics uncover key regulator microRNAs from gene expression data"
+
+General instructions
+--------------------
+
+1.- Use the script 'combine_algorithms.plx' on the output of prediction algorithms, to create the database.
+
+2.- Use the script 'enrichment_ud.rb' to evaluate the enrichment of miRNAs in experimental data of up- and downregulated genes.
+
+Run the scripts without arguments to see the detailed help.
+
+

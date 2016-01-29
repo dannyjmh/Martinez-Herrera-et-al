@@ -1,0 +1,13 @@
+README file for Method 2 in "Statistical analysis and thermodynamics uncover key regulator microRNAs from gene expression data"
+
+General instructions
+--------------------
+
+1.- Use the script 'background_nspk.plx' to calculate the NSPK value of each miRNA and seedmatch in the background sequences.
+
+2.- Use the script 'get_3utr_coords.plx' to determine the start position of the 3'UTR sequences in the cDNA sequences.
+
+3.- Use the script 'input_nspk.plx' to calculate the NSPK, Fold-Enrichment, Z-score and p-value of each miRNA and seedmatch in the input sequences.
+
+Run the scripts without arguments to see the detailed help.
+

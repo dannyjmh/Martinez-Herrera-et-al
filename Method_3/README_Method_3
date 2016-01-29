@@ -1,0 +1,8 @@
+README file for Method 3 in "Statistical analysis and thermodynamics uncover key regulator microRNAs from gene expression data" by D.J. Martinez-Herrera, C.O. Sanchez-Sorzano and A. Pascual-Montano.
+
+General instructions
+--------------------
+
+1.- Use the script 'thermod_analysis.plx' to calculate the binding energy of the hybrids formed by the miRNAs with positive fold-enrichment and significantly represented on the input dataset.
+
+Run the script without arguments to see the detailed help.
